@@ -1,0 +1,109 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    max-width: 1303px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+ul {
+    padding-inline-start: 18px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-top: 10px;
+}
+
+.logo {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333131;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.text {
+    width: 40%;
+}
+
+.photo {
+    width: 64%;
+    padding-top: 38px;
+}
+
+a span {
+    color: #C76767;
+}
+
+.about {
+    max-width: 322px;
+    letter-spacing: 1px;
+    line-height: 137.5%;
+    padding-top: 10px;
+    color: #333131;
+}
+
+.AboutMe {
+    padding-top: 40px;
+    color: #333131;
+}
+
+.linkMe {
+    padding-top: 25px;
+    color: #333131;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding-top: 10px;
+}
+
+.link a {
+    color: #333131;
+}
+
+.link a {
+    padding-top: 5px;
+}
+
+.link a:first-child {
+    padding-top: 0;
+}
+
+.link a:hover {
+    color: #635D5D;
+}
+
+.skills li {
+    padding-top: 5px;
+}
+
+.skills li:first-child {
+    padding-top: 0;
+}
+
+.myWork {
+    color: #333131;
+    padding-bottom: 10px;
+}
+
+.name {
+    padding-top: 50px;
+    color: #C76767;
+}
